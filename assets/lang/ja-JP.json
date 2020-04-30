@@ -27,5 +27,11 @@
   "Total Service Fee of Withdrawal": "総出金手数料",
   "Withdrawal Service Fee": "出金手数料",
   "Date": "日付",
-  "no. of transactions": "トランザクション数"
+  "no. of transactions": "トランザクション数",
+  "Language": "言語を使用する",
+  "en_US": "English",
+  "zh_CN": "简体中文",
+  "zh_HK": "繁體中文(香港)",
+  "zh_TW": "繁體中文(台灣)",
+  "ja_JP": "日本語"
 }
